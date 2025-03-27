@@ -2,7 +2,7 @@
 # 📝 Task Manager App  
 A full-stack task management application built with **React (frontend)**, **Node.js + Express (backend)**, and **MySQL (database)**.  
 
-![Demo](<img width="733" alt="Capture_taskmanager" src="https://github.com/user-attachments/assets/7a3ca0c7-1fa8-44fc-b3f3-63b5d9fd6fe0" />
+<img width="733" alt="Capture_taskmanager" src="https://github.com/user-attachments/assets/7a3ca0c7-1fa8-44fc-b3f3-63b5d9fd6fe0" />
 
 
 ## 🌟 Features  
@@ -112,12 +112,4 @@ task-manager/
 MIT  
 
 ---
-
-### **Why This README Works for Your Portfolio**  
-✅ **Professional formatting** (clear sections, emojis, table for tech stack)  
-✅ **Step-by-step setup** (easy for recruiters to test your app)  
-✅ **Highlights full-stack skills** (frontend + backend + SQL)  
-
-**Tip**: Add a screenshot/GIF at the top to make it visually engaging!  
-
 Let me know if you’d like to add more (e.g., deployment instructions, API docs). 😊
