@@ -28,7 +28,7 @@ A full-stack task management application built with **React (frontend)**, **Node
 #### Steps:  
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/adensalah/Task-Manager-App.git
    cd task-manager/backend
    ```
 
